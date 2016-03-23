@@ -23,6 +23,15 @@ NG_DOCS={
     },
     {
       "section": "api",
+      "id": "app.common.directive:carousel",
+      "shortName": "carousel",
+      "type": "directive",
+      "moduleName": "app.common",
+      "shortDescription": "&lt; description placeholder &gt;",
+      "keywords": "api app common description directive object placeholder test true"
+    },
+    {
+      "section": "api",
       "id": "app.core",
       "shortName": "app.core",
       "type": "overview",
